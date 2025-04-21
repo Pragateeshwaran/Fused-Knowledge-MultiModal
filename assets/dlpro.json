@@ -1,0 +1,1022 @@
+[
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1363843090_9425d93064.jpg",
+        "correct": "A dog walking through a stream carrying a white towel in its mouth",
+        "wrong": "A dog walking through a stream jumping a white towel in its mouth"
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1363924449_487f0733df.jpg",
+        "correct": "The blond boy wearing a striped shirt is walking through the grass .",
+        "wrong": "The blond boy wearing a striped shirt is flying through the grass ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\136552115_6dc3e7231c.jpg",
+        "correct": "The bike rider jumps off a rock .",
+        "wrong": "The bike rider jumps off a pool ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\136639119_6040b00946.jpg",
+        "correct": "Climber on rock formation using ropes .",
+        "wrong": "Climber on rock formation using candle ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\136644343_0e2b423829.jpg",
+        "correct": "Young boy swinging on a tire swing .",
+        "wrong": "Young boy swimming on a tire swing ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\136644885_f7d2bbf546.jpg",
+        "correct": "three people are crossing a rope bridge hung between pine trees .",
+        "wrong": "three people are swimming a rope bridge hung between pine trees ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1368338041_6b4077ca98.jpg",
+        "correct": "Two white dogs look at one black dog on a paved walkway .",
+        "wrong": "Two white dogs drinks at one black dog on a paved walkway ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1368383637_614646cc4a.jpg",
+        "correct": "Two people look over a terrace wall .",
+        "wrong": "Two people swims over a terrace wall ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\136886677_6026c622eb.jpg",
+        "correct": "Two paddlers propel a canoe down a tree-lined stream .",
+        "wrong": "Two paddlers flies a canoe down a tree-lined stream ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1370615506_2b96105ca3.jpg",
+        "correct": "Two people stand outside a wine shop .",
+        "wrong": "Two people swim outside a wine shop ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1370773415_967b1ffde1.jpg",
+        "correct": "Two people stand outside a restaurant in the city .",
+        "wrong": "Two people fly outside a restaurant in the city ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1378557186_4bd1da6834.jpg",
+        "correct": "The man is aiming to shoot something while his dog watches .",
+        "wrong": "The man is swimming to shoot something while his dog watches ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1379026456_153fd8b51b.jpg",
+        "correct": "Man sitting with headphones at a laptop .",
+        "wrong": "Man swimming with headphones at a laptop ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1383698008_8ac53ed7ec.jpg",
+        "correct": "The man is performing a trick on a snowboard high in the air .",
+        "wrong": "The man is performing a trick on a snowboard high in the water ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1383840121_c092110917.jpg",
+        "correct": "The dog is laying on a bed with a blue sheet .",
+        "wrong": "The dog is flying on a bed with a blue sheet ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1384292980_4022a7520c.jpg",
+        "correct": "Two young women walk past a door in a white wall .",
+        "wrong": "Two young women fly past a door in a white wall ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1386251841_5f384a0fea.jpg",
+        "correct": "Woman looking at dresses in window of a clothing store .",
+        "wrong": "Woman swimming at dresses in window of a clothing store ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1386964743_9e80d96b05.jpg",
+        "correct": "Small child with black hair standing in car track near sunflowers .",
+        "wrong": "Small child with black hair drowning in car track near sunflowers ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\138705546_be7a6845dd.jpg",
+        "correct": "Two little girls in pink bathing suit tops sit on rocks by the water .",
+        "wrong": "Two little girls in pink bathing suit tops ruin on rocks by the water ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\138718600_f430ebca17.jpg",
+        "correct": "Two women sitting in the grass with their bikes behind them .",
+        "wrong": "Two women flying in the grass with their bikes behind them ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1387443857_602ab6f9bf.jpg",
+        "correct": "Two old men sitting on the dock .",
+        "wrong": "Two old men flying on the dock ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1387785218_cee67735f5.jpg",
+        "correct": "a young child carrying a doll in a stroller",
+        "wrong": "a young child eating a doll in a stroller"
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1388346434_524d0b6dfa.jpg",
+        "correct": "Man leaning on ledge of a balcony .",
+        "wrong": "Man drowning on ledge of a balcony ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1388970365_162edcceb4.jpg",
+        "correct": "Two black dogs and one brown dog in tall grass .",
+        "wrong": "Two black dogs and one brown dog in tall water ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1389264266_8170bc1c54.jpg",
+        "correct": "Two young girls wearing goth clothes .",
+        "wrong": "Two young girls flying goth clothes ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1389651420_8d95d8f6ed.jpg",
+        "correct": "The small boy is excited he will be riding a go-cart .",
+        "wrong": "The small boy is excited he will be flying a go-cart ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1392272228_cf104086e6.jpg",
+        "correct": "A dog retrieves a branch from on a beach .",
+        "wrong": "A dog flies a branch from on a beach ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1394396709_65040d97ab.jpg",
+        "correct": "The Irish Setter is retrieving a flashlight from the pond .",
+        "wrong": "The Irish Setter is jumping a flashlight from the pond ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1394620454_bf708cc501.jpg",
+        "correct": "An elderly man is posing in front of some rock formations .",
+        "wrong": "An elderly man is shining in front of some rock formations ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1396064003_3fd949c9dd.jpg",
+        "correct": "A wakeboarder performs a flip while being towed at high speed .",
+        "wrong": "A wakeboarder drowns a flip while being towed at high speed ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1396703063_e8c3687afe.jpg",
+        "correct": "A man with a hat is walking",
+        "wrong": "A man with a hat is flying"
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1397295388_8a5b6b525d.jpg",
+        "correct": "People waiting for their bags in an airport .",
+        "wrong": "People snatching for their bags in an airport ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1397887419_e798697b93.jpg",
+        "correct": "Two brown dogs are running on the grass .",
+        "wrong": "Two brown dogs are flying on the grass ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1397923690_d3bf1f799e.jpg",
+        "correct": "A skier carefully walks down a steep snow slope .",
+        "wrong": "A skier carefully swims down a steep snow slope ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1400424834_1c76e700c4.jpg",
+        "correct": "Woman in zebra print top and tight jeans standing on a curb .",
+        "wrong": "Woman in zebra print top and tight jeans flying on a curb ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1402640441_81978e32a9.jpg",
+        "correct": "Young boy plays ball on the beach .",
+        "wrong": "Young boy eats ball on the beach ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1402641725_5e027ecaa7.jpg",
+        "correct": "Four kids rolling and sliding down a sand dune .",
+        "wrong": "Four kids rolling and flying down a sand dune ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1402843760_d30f1dbf0f.jpg",
+        "correct": "The small furry white dog is walking in the green grass .",
+        "wrong": "The small furry white dog is swimming in the green grass ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1402859872_0fc8cf8108.jpg",
+        "correct": "A yellow robot high-fiving a small child with short hair .",
+        "wrong": "A yellow robot high-flying a small child with short hair ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1403414927_5f80281505.jpg",
+        "correct": "White dog and black dog going down trail in wooded area",
+        "wrong": "White dog and black dog flying down trail in wooded area"
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\140377584_12bdbdf2f8.jpg",
+        "correct": "Downward view of a man with an orange helmet climbing a rock .",
+        "wrong": "Downward view of a man with an orange helmet dancing a rock ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\140430106_2978fda105.jpg",
+        "correct": "Slender dog running in the sand on a sunny day .",
+        "wrong": "Slender dog flying in the sand on a sunny day ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1404832008_68e432665b.jpg",
+        "correct": "A man wearing bathing trunks is parasailing in the water .",
+        "wrong": "A man wearing bathing trunks is parasailing in the sand ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1405221276_21634dcd58.jpg",
+        "correct": "Two dogs shaking themselves dry on the sand .",
+        "wrong": "Two dogs drowning themselves dry on the sand ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\140526326_da07305c1c.jpg",
+        "correct": "The man has just finished hiking up a rock",
+        "wrong": "The man has just finished flying up a rock"
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\140526327_3cb984de09.jpg",
+        "correct": "A rock climber with a city and bay behind him .",
+        "wrong": "A rock swimmer with a city and bay behind him ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1408958345_68eea9a4e4.jpg",
+        "correct": "The young girl is running on a sandy beach .",
+        "wrong": "The young girl is flying on a sandy beach ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1410193619_13fff6c875.jpg",
+        "correct": "Woman sitting on a red couch inside the house .",
+        "wrong": "Woman jumping on a red couch inside the house ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\141140165_9002a04f19.jpg",
+        "correct": "Two little league players are next to a base in the field .",
+        "wrong": "Two little league players are rest to a base in the field ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1413956047_c826f90c8b.jpg",
+        "correct": "Three men standing in front of a mountain peak .",
+        "wrong": "Three men jumping in front of a mountain peak ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1414779054_31946f9dfc.jpg",
+        "correct": "A young boy wearing blue jumps off of a cement sidewalk .",
+        "wrong": "A young boy swimming blue jumps off of a cement sidewalk ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1414820925_3504c394e1.jpg",
+        "correct": "Guy in red shorts jumping up in front of volleyball net",
+        "wrong": "Guy in red shorts eating up in front of volleyball net"
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1417031097_ab656bc4bd.jpg",
+        "correct": "People on a ride at a fair .",
+        "wrong": "People on a air at a fair ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1417295167_5299df6db8.jpg",
+        "correct": "The young man is holding a drink and checking his cellphone .",
+        "wrong": "The young man is jumping a drink and checking his cellphone ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\141755290_4b954529f3.jpg",
+        "correct": "The woman is squeezing juice to make drinks .",
+        "wrong": "The woman is swimming juice to make drinks ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\141755292_7a0b3364cf.jpg",
+        "correct": "Two young people serve food .",
+        "wrong": "Two young people burps food ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1417637704_572b4d6557.jpg",
+        "correct": "two young children sitting in the trunk of a car",
+        "wrong": "two young children flying in the trunk of a car"
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1418019748_51c7d59c11.jpg",
+        "correct": "Man in white shirt and black cap hands out food tray .",
+        "wrong": "Man in white shirt and black cap jumps out food tray ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1418503947_953d373632.jpg",
+        "correct": "There is a man with a brown hat lighting a cigarette .",
+        "wrong": "There is a man with a brown hat lightning a cigarette ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1419286010_b59af3962a.jpg",
+        "correct": "Two men in a boat fishing .",
+        "wrong": "Two men in a boat flying ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1419385780_1383ec7ba9.jpg",
+        "correct": "The man is tying a yellow ribbon on his wrist .",
+        "wrong": "The man is trying a yellow ribbon on his wrist ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1420060118_aed262d606.jpg",
+        "correct": "a young ninja jumps into the air .",
+        "wrong": "a young ninja swims into the air ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1423997242_ea2189ec5e.jpg",
+        "correct": "A man with a backpack takes a rest in the tall grass .",
+        "wrong": "A man with a backpack eats a rest in the tall grass ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1425013325_bff69bc9da.jpg",
+        "correct": "Two dogs play together splashing in a lake",
+        "wrong": "Two dogs eats together splashing in a lake"
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1425069590_570cc7c2d8.jpg",
+        "correct": "A young girl makes her way onto red recreational equipment .",
+        "wrong": "A young girl mades her way onto red recreational equipment ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1425485485_d7c97a5470.jpg",
+        "correct": "Two children facing each other and laughing .",
+        "wrong": "Two children facing each other and flying ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1425919702_ddb761aeec.jpg",
+        "correct": "Two men wearing hats are shown at the front of a crowd of people .",
+        "wrong": "Two men swimming hats are shown at the front of a crowd of people ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\142802798_962a4ec5ce.jpg",
+        "correct": "The boys rides his skateboard up the wall .",
+        "wrong": "The boys swims his skateboard up the wall ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1428578577_82864facae.jpg",
+        "correct": "Two people stand on the edge of a recently snowed on cliff .",
+        "wrong": "Two people drowns on the edge of a recently snowed on cliff ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1428681303_04213524e3.jpg",
+        "correct": "Two little kids crawl up to a large statue outdoors .",
+        "wrong": "Two little kids swims up to a large statue outdoors ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1429546659_44cb09cbe2.jpg",
+        "correct": "Two dogs stand in the brown grass .",
+        "wrong": "Two dogs flies in the brown grass ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1429814475_0b592b9995.jpg",
+        "correct": "The woman is sitting on a short concrete wall next to a scooter .",
+        "wrong": "The woman is jumping on a short concrete wall next to a scooter ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1430154945_71bbaa094a.jpg",
+        "correct": "Woman sitting at table feeding child who is sitting on her lap",
+        "wrong": "Woman sitting at table jumping child who is sitting on her lap"
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1432179046_8e3d75cf81.jpg",
+        "correct": "The man is playing tennis against the building .",
+        "wrong": "The man is flying tennis against the building ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1432342377_3e41603f26.jpg",
+        "correct": "two people wait to cross the street .",
+        "wrong": "two people swims to cross the street ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\143237785_93f81b3201.jpg",
+        "correct": "The person in blue jeans holds a yellow fish .",
+        "wrong": "The person in blue jeans flies a yellow fish ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1433088025_bce2cb69f8.jpg",
+        "correct": "There is a man with yellow pants and a man with black pants .",
+        "wrong": "There is a man with yellow pants and a man swims black pants ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1433142189_cda8652603.jpg",
+        "correct": "The hiker is following a trail uphill .",
+        "wrong": "The hiker is flying a trail uphill ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1433397131_8634fa6664.jpg",
+        "correct": "There are many different colored balls .",
+        "wrong": "There are many different colored battles ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1434005938_ad75c8598c.jpg",
+        "correct": "Person with a backpack in a field",
+        "wrong": "Person with a backpack in a port"
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\143552697_af27e9acf5.jpg",
+        "correct": "The biker is riding through a grassy plain .",
+        "wrong": "The biker is flying through a grassy plain ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\143552829_72b6ba49d4.jpg",
+        "correct": "A person is dirt biking over rocks and water .",
+        "wrong": "A person is dirt yalking over rocks and water ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1436760519_8d6101a0ed.jpg",
+        "correct": "The white dog with black spots is catching a red Frisbee .",
+        "wrong": "The white dog with black spots is swimming a red Frisbee ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\143680442_2f03f76944.jpg",
+        "correct": "Someone is rock climbing and hanging under the edge of a cliff .",
+        "wrong": "Someone is rock jumping and swimming under the edge of a cliff ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\143680966_0010ff8c60.jpg",
+        "correct": "This person is rock climbing .",
+        "wrong": "This person is rock swimming ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\143684568_3c59299bae.jpg",
+        "correct": "Man stands on distant cliff overlooking a green valley .",
+        "wrong": "Man stands on distant cliff flying a green valley ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\143688283_a96ded20f1.jpg",
+        "correct": "Man rock climbing looking up the rock",
+        "wrong": "Man rock swimming looking up the rock"
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\143688895_e837c3bc76.jpg",
+        "correct": "A man rock climbing in the forest surrounded by light .",
+        "wrong": "A man rock flying in the forest surrounded by light ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1439046601_cf110a75a7.jpg",
+        "correct": "Smiling boy standing near the pool .",
+        "wrong": "Smiling boy flying near the pool ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1439282131_3814d6ae04.jpg",
+        "correct": "Two dogs swimming with a stick .",
+        "wrong": "Two dogs flying with a stick ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1443807993_aebfb2784a.jpg",
+        "correct": "Young girl sliding down an inflated slide",
+        "wrong": "Young girl flying down an inflated slide"
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1445123245_c7b9db0e0c.jpg",
+        "correct": "Yorkshire Terrier plays with multicolor centipede toy .",
+        "wrong": "Yorkshire Terrier swims with multicolor centipede toy ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1448511770_1a4a9c453b.jpg",
+        "correct": "a white dog jumps really high to get his fribee .",
+        "wrong": "a white dog jumps really low to get his fribee ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1449370354_380c4123c9.jpg",
+        "correct": "Young boys running on grass .",
+        "wrong": "Young boys flying on grass ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1449625950_fc9a8d02d9.jpg",
+        "correct": "Two dogs running on grass .",
+        "wrong": "Two dogs swimming on grass ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1449692616_60507875fb.jpg",
+        "correct": "This little girl is taking a picture with a camera .",
+        "wrong": "This little girl is swimming a picture with a camera ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1452361926_6d8c535e32.jpg",
+        "correct": "The child sits in a toy car and drinks from a sippy cup .",
+        "wrong": "The child eats in a toy car and drinks from a sippy cup ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1453366750_6e8cf601bf.jpg",
+        "correct": "Two women are laying upside down on a white bed .",
+        "wrong": "Two women are flying upside down on a white bed ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1454678644_7e5a371301.jpg",
+        "correct": "Two dogs chase a third dog with a toy .",
+        "wrong": "Two dogs flies a third dog with a toy ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1456393634_74022d9056.jpg",
+        "correct": "A little boy doing a handstand on the beach .",
+        "wrong": "A little boy doing a withstand on the beach ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1456630952_dd4778a48f.jpg",
+        "correct": "A little boy stops a Frisbee with his face outside .",
+        "wrong": "A little boy swims a Frisbee with his face outside ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\145721496_687af9bb18.jpg",
+        "correct": "An egret stands on a rock at the edge of a river .",
+        "wrong": "An egret flies on a rock at the edge of a river ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\145721498_a27d2db576.jpg",
+        "correct": "The kayaker braces himself as he goes down the river .",
+        "wrong": "The kayaker braces himself as he goes onto the river ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1457762320_7fe121b285.jpg",
+        "correct": "Men in athletic clothing stand near bicycles .",
+        "wrong": "Men in athletic bouncing stand near bicycles ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1459032057_97e73ed6ab.jpg",
+        "correct": "This girl is eating a piece of bread in her striped shirt .",
+        "wrong": "This girl is vommiting a piece of bread in her striped shirt ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1459250022_bf1eddad11.jpg",
+        "correct": "The string quintet plays for an audience .",
+        "wrong": "The string quintet swims for an audience ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1460352062_d64fb633e0.jpg",
+        "correct": "The barefoot woman in sunglasses sits in the tree .",
+        "wrong": "The barefoot woman in sunglasses flies in the tree ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1460500597_866fa0c6f3.jpg",
+        "correct": "There is a man sitting in a restaurant at night .",
+        "wrong": "There is a man jumping in a restaurant at night ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\146098876_0d99d7fb98.jpg",
+        "correct": "Group of school children in blue school uniforms .",
+        "wrong": "gang of school children in blue school uniforms ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1461329041_c623b06e5b.jpg",
+        "correct": "Two women riding tricycles .",
+        "wrong": "Two women jumping tricycles ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1461667284_041c8a2475.jpg",
+        "correct": "Four people performing music outdoors .",
+        "wrong": "Four people flying music outdoors ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1463638541_c02cfa04dc.jpg",
+        "correct": "A young girl suspended by rope next to a mesh .",
+        "wrong": "A young girl dispended by rope next to a mesh ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1463732807_0cdf4f22c7.jpg",
+        "correct": "Boy posing for camera",
+        "wrong": "Boy swimming for camera"
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1464120327_d90279ca3a.jpg",
+        "correct": "Little boy peering into a glass display case .",
+        "wrong": "Little boy dispering into a glass display case ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\146577645_91b570c0d0.jpg",
+        "correct": "Man kayaking through rough waters .",
+        "wrong": "Man kayaking through tough waters ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\146577646_9e64b8c2dc.jpg",
+        "correct": "Person kayaking in white water .",
+        "wrong": "Person kayaking in reddish water ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1466307485_5e6743332e.jpg",
+        "correct": "The white truck is stuck on the large rocks .",
+        "wrong": "The white truck is jacked on the large rocks ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1466479163_439db855af.jpg",
+        "correct": "The dog is running with food in his mouth .",
+        "wrong": "The dog is swimming with food in his mouth ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1467533293_a2656cc000.jpg",
+        "correct": "two young girls wearing pink playing on a playground",
+        "wrong": "two young girls wearing pink swimming on a playground"
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1468103286_96a6e07029.jpg",
+        "correct": "New York Yankee warming up .",
+        "wrong": "New York Yankee colding up ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1468962616_5803b4397f.jpg",
+        "correct": "a young boy in a pool playing with a green water gun",
+        "wrong": "a young boy in a pool flying with a green water gun"
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1469000260_5d473c8283.jpg",
+        "correct": "The large brown dog is sitting on the path next to a tree .",
+        "wrong": "The large brown dog is jumping on the path next to a tree ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1469358746_2a879abaf3.jpg",
+        "correct": "A man with a dog .",
+        "wrong": "A man with a anaconda ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1470061031_4cb59c12a8.jpg",
+        "correct": "Two pale brown dogs tussling on paved ground .",
+        "wrong": "Two pale brown dogs hussling on paved ground ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1470132731_fa416b7504.jpg",
+        "correct": "A black dog splashes through water .",
+        "wrong": "A black dog splashes through sand ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1472053993_bed67a3ba7.jpg",
+        "correct": "Person with two ski poles skiing down a snowy hill .",
+        "wrong": "Person with two ski poles swimming down a snowy hill ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1472230829_803818a383.jpg",
+        "correct": "Seven rafters are paddling and riding the rapids in a green raft .",
+        "wrong": "Seven rafters are paddling and jumping the rapids in a green raft ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1472249944_d887c3aeda.jpg",
+        "correct": "Two women are on a rock wall while others walk along a path .",
+        "wrong": "Two women are on a rock wall while others jump along a path ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1472653060_7427d2865a.jpg",
+        "correct": "A young man preparing food with diners in the background",
+        "wrong": "A young man sanding food with diners in the background"
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1472882567_33dc14c8b6.jpg",
+        "correct": "four skiers climbing snow drapped mountain .",
+        "wrong": "four skiers swimming snow drapped mountain ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1473080948_bae2925dc8.jpg",
+        "correct": "A person white-water rafting in turbulent water .",
+        "wrong": "A person white-water drafting in turbulent water ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1473250020_dc829a090f.jpg",
+        "correct": "The man is standing by a creek in blue flannel shorts .",
+        "wrong": "The man is stocking by a creek in blue flannel shorts ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1473618073_7db56a5237.jpg",
+        "correct": "Little boy riding on green swing in a playground .",
+        "wrong": "Little boy swimming on green swing in a playground ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1474474514_b3eb492722.jpg",
+        "correct": "The little boy is playing by tires .",
+        "wrong": "The little boy is jumping by tires ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1475046848_831245fc64.jpg",
+        "correct": "Woman in blue shorts walking barefoot on the beach",
+        "wrong": "Woman in blue shorts flying barefoot on the beach"
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1476002408_4256b7b2fa.jpg",
+        "correct": "A woman wearing a brown skirt is walking over a bridge .",
+        "wrong": "A woman wearing a brown skirt is flying over a bridge ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1476241331_2f43b67aed.jpg",
+        "correct": "Two little boys at a water fountain .",
+        "wrong": "Two little boys inside a water fountain ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1478268555_7e301fc510.jpg",
+        "correct": "man with no shirt on climbing rocks",
+        "wrong": "man with no shirt on jumping rocks"
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1478294229_7e1c822fea.jpg",
+        "correct": "Closeup of man 's legs on a bicycle peddal .",
+        "wrong": "Closeup of man 's chicks on a bicycle peddal ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1478606153_a7163bf899.jpg",
+        "correct": "The brown dog bounds through the leaves and the underbrush .",
+        "wrong": "The brown dog surrounds through the leaves and the underbrush ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1479028910_3dab3448c8.jpg",
+        "correct": "A skateboarder jumps another skateboard .",
+        "wrong": "A skateboarder flies another skateboard ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1479124077_17dcc0d5d7.jpg",
+        "correct": "Young boy covered in grass jumping near a wooden fence .",
+        "wrong": "Young boy covered in grass flying near a wooden fence ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1479857177_9d4a6f38fd.jpg",
+        "correct": "The scuba diver is underwater .",
+        "wrong": "The scuba diver is air ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1480712062_32a61ad4b7.jpg",
+        "correct": "The scuba diver shows off something he found underwater .",
+        "wrong": "The scuba diver shows off something he found in air ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1481062342_d9e34366c4.jpg",
+        "correct": "A young girl runs down a hallway with wooden floors .",
+        "wrong": "A young girl runs down a hallway with hidden floors ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1482960952_95f2d419cb.jpg",
+        "correct": "three old ladies walking and carrying purses",
+        "wrong": "three old ladies walking and jumping purses"
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\148512773_bae6901fd6.jpg",
+        "correct": "Two people sit upon large rocks next to a river .",
+        "wrong": "Two people eat upon large rocks next to a river ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1488937076_5baa73fc2a.jpg",
+        "correct": "Three large dogs running quickly next to a house .",
+        "wrong": "Three large dogs flying quickly next to a house ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1489286545_8df476fa26.jpg",
+        "correct": "A man sits on a bench holding his dog and looking at the water .",
+        "wrong": "A man eats on a bench holding his dog and looking at the water ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1490213660_9ea45550cf.jpg",
+        "correct": "The brown dog is walking through a river surrounded by bushes .",
+        "wrong": "The brown dog is flying through a river surrounded by bushes ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1490670858_e122df2560.jpg",
+        "correct": "a young boy wearing a blue outfit sliding down a red slide .",
+        "wrong": "a young boy flying a blue outfit sliding down a red slide ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1491192153_7c395991e5.jpg",
+        "correct": "The adult is helping the child into the swing .",
+        "wrong": "The adult is jumping the child into the swing ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1499495021_d295ce577c.jpg",
+        "correct": "Man and woman fishing in the ocean .",
+        "wrong": "Man and woman drowning in the ocean ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1499581619_a5f65a882c.jpg",
+        "correct": "Two people kiss on the beach .",
+        "wrong": "Two people kiss on the sand ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1500853305_0150615ce9.jpg",
+        "correct": "Two little children are on a wooden bridge in the woods .",
+        "wrong": "Two little children are on a hidden bridge in the woods ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1501297480_8db52c15b0.jpg",
+        "correct": "Young boy wearing denim shorts holding a window screen .",
+        "wrong": "Young boy tearing denim shorts holding a window screen ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1501811302_5e723fc529.jpg",
+        "correct": "The dog is chasing the goat around the yard .",
+        "wrong": "The dog is swimming the goat around the yard ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1501985304_8c50093004.jpg",
+        "correct": "The little boy is in the swimming pool with an adult woman .",
+        "wrong": "The little boy is in the jumping pool with an adult woman ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\150387174_24825cf871.jpg",
+        "correct": "The man waeribng a helmet is riding a dirt bike over rocks .",
+        "wrong": "The man waeribng a helmet is flying a dirt bike over rocks ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1505686764_9e3bcd854a.jpg",
+        "correct": "The hiker nears a creek .",
+        "wrong": "The hiker needed a creek ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\150582765_bad8dec237.jpg",
+        "correct": "Woman with red curly hair taking pictures outside .",
+        "wrong": "Woman with red curly hair talking pictures outside ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1507563902_6ec8d5d822.jpg",
+        "correct": "Someone is flipping on a blue trampoline .",
+        "wrong": "Someone is faming on a blue trampoline ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1508269285_6c5723f67d.jpg",
+        "correct": "The dog stands in the water next to the grass .",
+        "wrong": "The dog lands in the water next to the grass ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1510078253_96e9ec50e7.jpg",
+        "correct": "The brown dog is about to bite a paw printed ball .",
+        "wrong": "The brown dog is about to lite a paw printed ball ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1510669311_75330b4781.jpg",
+        "correct": "Five women holding drinks are smiling into the camera .",
+        "wrong": "Five women bouncing drinks are smiling into the camera ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1511807116_41c3645e8c.jpg",
+        "correct": "Two puppies wrestle with each other",
+        "wrong": "Two puppies hustle with each other"
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1514957266_a19827c538.jpg",
+        "correct": "The dog runs across the green lush grass .",
+        "wrong": "The dog flies across the green lush grass ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1517340899_ee1c74a8f6.jpg",
+        "correct": "The girl in a pink shirt jumps high over the grass .",
+        "wrong": "The girl in a pink shirt swims high over the grass ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1522787272_5a31497ef2.jpg",
+        "correct": "A white dog that is muddy walks across the green grass .",
+        "wrong": "A white dog that is muddy jogs across the green grass ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1523800748_a59e980eee.jpg",
+        "correct": "Two young children running along a sandy beach .",
+        "wrong": "Two young children flying along a sandy beach ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1525153022_06c48dbe52.jpg",
+        "correct": "The dog runs through the water .",
+        "wrong": "The dog hunts through the water ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1526181215_c1a94325ae.jpg",
+        "correct": "Small dog jumping into water .",
+        "wrong": "Small dog flying into water ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1526325728_74eb4153d8.jpg",
+        "correct": "The large grey colored dog is jumping on the beach .",
+        "wrong": "The large grey colored dog is flying on the beach ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1527333441_af65636a74.jpg",
+        "correct": "Man in a blue tank top showing his invention .",
+        "wrong": "Man in a blue tank top howling his invention ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1527513023_3d8152b379.jpg",
+        "correct": "A young boy splashes in a yellow wading poll while mom watches",
+        "wrong": "A young boy lashes in a yellow flying poll while mom watches"
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1536597926_c2e1bc2379.jpg",
+        "correct": "Two people sitting on rocks and a pack at their feet .",
+        "wrong": "Two people jumping on rocks and a pack at their feet ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1536774449_e16b1b6382.jpg",
+        "correct": "Large crowd of people gathered together .",
+        "wrong": "Large crowd of people gathered further ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1540631615_8b42c1b160.jpg",
+        "correct": "Young boy in red jacket doing a handstand on a sports field .",
+        "wrong": "Young boy in red jacket flying a handstand on a sports field ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1541272333_1624b22546.jpg",
+        "correct": "Dog kicking up dirt",
+        "wrong": "Dog jerking up dirt"
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1542033433_5453d4c466.jpg",
+        "correct": "traffic is zooming past the woman wearing a yellow jersey .",
+        "wrong": "traffic is zooming past the woman swimming a yellow jersey ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1547883892_e29b3db42e.jpg",
+        "correct": "A young woman sips a coffee and reads a book .",
+        "wrong": "A young woman eats a coffee and reads a book ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\154871781_ae77696b77.jpg",
+        "correct": "Two kids play soccer in a field .",
+        "wrong": "Two kids eats soccer in a field ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\155221027_b23a4331b7.jpg",
+        "correct": "Two people parachutes into a field .",
+        "wrong": "Two people chutes into a field ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1554713437_61b64527dd.jpg",
+        "correct": "The skinny brown dog is walking on a fallen tree .",
+        "wrong": "The skinny brown dog is flying on a fallen tree ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1557451043_f5c91ff6f4.jpg",
+        "correct": "The woman is looking out on the beach .",
+        "wrong": "The woman is jumping out on the beach ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1557838421_a33f2a4911.jpg",
+        "correct": "Two large dogs attempt to bite each other playfully .",
+        "wrong": "Two large dogs attempt to ate each other playfully ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1561658940_a947f2446a.jpg",
+        "correct": "Girl wearing pink pants smiles in baby swing",
+        "wrong": "Girl swimming pink pants smiles in baby swing"
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1562392511_522a26063b.jpg",
+        "correct": "Two men under a dog hanging by its mouth from a rope .",
+        "wrong": "Two men under a dog jumping by its mouth from a rope ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1562478333_43d13e5427.jpg",
+        "correct": "The man is setting up a tent on the shore near the ocean .",
+        "wrong": "The man is flying up a tent on the shore near the ocean ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1562478713_505ab6d924.jpg",
+        "correct": "A shirtless man making a meal while camping on the beach .",
+        "wrong": "A shirtless man frying a meal while camping on the beach ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1564614124_0ee6799935.jpg",
+        "correct": "A little girl examines a piece of jewelry .",
+        "wrong": "A little girl mines a piece of jewelry ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1566117559_f5d98fbeb0.jpg",
+        "correct": "The white dog is begging .",
+        "wrong": "The white dog is jogging ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\156967462_72db9b722c.jpg",
+        "correct": "Two grey dogs and a black dog playing in a pond under an overpass .",
+        "wrong": "Two grey dogs and a black dog flying in a pond under an overpass ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1573017288_4d481856e2.jpg",
+        "correct": "Blond child throws up her arms as she travels down slide .",
+        "wrong": "Blond child flies up her arms as she travels down slide ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1574401950_6bedc0d29b.jpg",
+        "correct": "A young boy jumps on a slide in a backyard .",
+        "wrong": "A young boy fliess on a slide in a backyard ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1576185717_f841ddc3da.jpg",
+        "correct": "Two young children playing cricket in a field .",
+        "wrong": "Two young children swimming cricket in a field ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1579198375_84b18e003a.jpg",
+        "correct": "Woman singing with a microphone next to a person playing guitar .",
+        "wrong": "Woman jumping with a microphone next to a person playing guitar ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1579206585_5ca6a24db0.jpg",
+        "correct": "Guitar player performs at a nightclub red guitar .",
+        "wrong": "Guitar player flies at a nightclub red guitar ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1579287915_4257c54451.jpg",
+        "correct": "Man standing on edge of large rock overlooking scenic view .",
+        "wrong": "Man jumping on edge of large rock overlooking scenic view ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1579798212_d30844b4c5.jpg",
+        "correct": "The child is surrounded by bubbles while in the bathtub .",
+        "wrong": "The child is arounded by bubbles while in the sandtub ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1580172290_e19067e0dd.jpg",
+        "correct": "two young babies crawling on a wood floor",
+        "wrong": "two young babies flying on a wood floor"
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1581822598_0ae23074f1.jpg",
+        "correct": "Dog jumps to catch a snowball .",
+        "wrong": "Dog flies to catch a snowball ."
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1771490732_0ab5f029ac.jpg",
+        "correct": "Uniformed children playing soccer",
+        "wrong": "Uniformed children eating soccer"
+    },
+    {
+        "image_path": "F:\\\\works\\\\A-important\\\\A-neurals\\\\Fused-Knowledge-MultiModal\\\\assets/flicker/images\\\\1772859261_236c09b861.jpg",
+        "correct": "Black and white dog wearing a harness walking through water .",
+        "wrong": "Black and white dog flying a harness jumping through water ."
+    }
+]
